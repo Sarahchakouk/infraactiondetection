@@ -57,7 +57,7 @@ model.fit(X_train, y_train, epochs=50, batch_size=32, validation_data=(X_test, y
 loss, acc = model.evaluate(X_test, y_test, verbose=0)
 print('Test Accuracy: %.3f' % acc)
 
-Data sources and AI methods
+## Data sources and AI methods
 
 The data comes from customer transactions provided by luxury brand retailers. The platform uses machine learning algorithms and neural networks to analyze the data and detect suspicious patterns.
 
@@ -68,7 +68,7 @@ Paragraph	Text
 Challenges
 
 The project does not solve all aspects of money laundering and has limitations such as access to transaction data from stores and banks. Ethical considerations include ensuring data privacy and compliance with legal regulations.
-What next?
+## What next?
 
 To advance the project, further skills in AI, machine learning, data analytics, and cybersecurity are needed. Collaboration with luxury brands, financial institutions, and regulatory bodies is essential for success.
 Acknowledgments
