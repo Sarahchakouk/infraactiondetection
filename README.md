@@ -3,16 +3,16 @@
 
 ## Summary
 
-This project aims to develop an AI-powered platform to detect suspicious luxury brand purchases and prevent money laundering. The system will analyze customer behavior and identify patterns that indicate money laundering, alerting authorities for further investigation.
-Background
+This project aims to develop an AI-powered platform that detects suspicious luxury brand purchases to prevent money laundering. By analyzing customer behavior and identifying patterns indicative of money laundering, the system alerts authorities for further investigation.
+## Background
 
-Money laundering is a significant problem that undermines financial institutions, facilitates criminal activities, and damages the economy. Luxury brand retailers are often targeted due to the high value of their products. This project aims to mitigate these risks by providing a tool that detects suspicious transactions, helping retailers comply with legal requirements and protect their reputation.
+Money laundering is a significant issue that undermines financial institutions, facilitates criminal activities, and damages the economy. Luxury brand retailers are often targeted due to the high value of their products. This project aims to mitigate these risks by providing a tool that detects suspicious transactions, helping retailers comply with legal requirements and protect their reputation.
 
     Corruption of financial institutions
     Facilitation of criminal activities
     Economic and social inequity
 
-# How is it used?
+## How is it used?
 
 The AI platform is used by luxury brand retailers to monitor customer transactions for suspicious activities. The process involves:
 
@@ -24,6 +24,8 @@ The AI platform is used by luxury brand retailers to monitor customer transactio
     Model Implementation: Deploying the model to detect suspicious transactions in real-time.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
+
+This is how you create code examples:
 
 This is how you create code examples:
 
